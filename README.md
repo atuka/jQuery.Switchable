@@ -1,4 +1,4 @@
-# [jQuery Switchable v2.0](http://switchable.mrzhang.me/)
+# [jQuery Switchable v3.0](http://switchable.mrzhang.me/)
 ## Why jQuery.Switchable?
 - Tabs, Slide, Scrollable & Accordion, 4 in 1.
 - CSS3 Transitions with jQuery fallbacks, progressive enhancement.
@@ -35,4 +35,4 @@ Licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.
 
 ## Changelog
 
-### 2.0
+### 3.0
