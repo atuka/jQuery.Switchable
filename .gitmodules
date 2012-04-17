@@ -1,0 +1,3 @@
+[submodule "jQuery.Transition"]
+	path = jQuery.Transition
+	url = git://github.com/jsw0528/Transition.git
